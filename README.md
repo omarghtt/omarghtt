@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @omarghtt
 - 👀 I’m interested in starting new projects
-- 🌱 I’m currently learning Automation Engineering
+- 🌱 I’m studying learning Automation Engineering
 
 <!---
 - 💞️ I’m looking to collaborate on ...
